@@ -170,76 +170,198 @@ pełnienia tych funkcji.
     Członkowie Rady wybrani przez Sejm i Senat pełnią swoje funkcje do czasu
     wyboru nowych członków.
 
+
+* Art. 9a. 
+    * Ust. 1. 
+    Sejm wybiera spośród sędziów Sądu Najwyższego, sądów
+    powszechnych, sądów administracyjnych i sądów wojskowych piętnastu członków Rady,
+    większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów, na
+    wspólną czteroletnią kadencję.     
     
+    * Ust. 2.
+    Dokonując wyboru, o którym mowa w ust. 1, Sejm, w miarę możliwości,
+    uwzględnia potrzebę reprezentacji w Radzie sędziów poszczególnych rodzajów i szczebli
+    sądów.
+    
+    * Ust. 3. 
+    Wspólna kadencja nowych członków Rady, wybieranych spośród sędziów,
+    rozpoczyna się z dniem następującym po dniu, w którym dokonano wyboru ostatniego
+    z nich. Członkowie Rady poprzedniej kadencji pełnią swoje funkcje do czasu rozpoczęcia
+    wspólnej kadencji nowych członków Rady.
+    
+     
 * Art. 10. 
 Sędzia może pełnić funkcję wybieranego członka Rady tylko dwie
 kadencje.
 
 
 * Art. 11. 
+(uchylony)    
+
+* Art. 11a. 
     * Ust. 1. 
-    Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera
-    spośród sędziów tego Sądu dwóch członków Rady.
+    Marszałek Sejmu, nie wcześniej niż na 120 i nie później niż na 90
+    dni przed upływem kadencji cŻłonków Rady wybieranych spośród sędziów obwieszcza
+    w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski" o rozpoczęciu
+    procedury zgłaszania kandydatów na członków Rady.
+    
+    * Ust 2. 
+    Podmiotami uprawnionymi do zgłoszenia kandydata na członka Rady są:
+        * 1 )
+        grupa co najmniej 2.000 obywateli Rzeczypospolitej Polskiej, którzy
+        ukończyli osiemnaście lat życia, mają pełną zdolność do czynności
+        prawnych i korzystają z pełni praw publicznych;
+        
+        * 2 ) 
+        grupa co najmniej 25 sędziów, z wyłączeniem sędziów w stanie
+        spoczynku.
+        Zgłoszenie dotyczy wyłącznie jednego kandydata na członka Rady.
+        
+    * Ust 3. 
+    Kandydata na członka Rady zgłasza się Marszałkowi Sejmu, w terminie 30 dni
+    od dnia ogłoszenia obwieszczenia, o którym mowa w ust. 1.
+    
+    * Ust 4.
+    Zgłoszenie kandydata obejmuje informacje o osobie kandydata, pełnionych
+    dotychczas funkcjach i działalności społecznej oraz innych istotnych zdarzeniach
+    mających miejsce w trakcie zajmowania przez kandydata urzędu sędziego. Do zgłoszenia
+    dołącza się zgodę sędziego na kandydowanie.
+    
+    * Ust. 5. 
+    Prezes właściwego sądu, na wniosek Marszałka Sejmu, sporządza, w terminie
+    7 dni od dnia doręczenia wniosku, informację o dorobku orzeczniczym kandydata,
+    obejmującą doniosłe społecznie lub precedensowe orzeczenia, a także istotne informacje
+    dotyczące kultury urzędowania, przede wszystkim ujawnione podczas wizytacji
+    i lustracji. W przypadku gdy zgłoszenie dotyczy:
+        * 1 ) 
+        prezesa sądu rejonowego i okręgowego - informację sporządza prezes sądu
+        wyższej instancji;
+        
+        * 2 )
+        prezesa sądu apelacyjnego -informację sporządza wiceprezes sądu apelacyjnego.
+        
+    * Ust. 6. 
+    W przypadku, gdy prezes właściwego sądu albo wiceprezes sądu apelacyjnego
+    nie sporządzi informacji o dorobku orzeczniczym kandydata w terminie, o którym mowa
+    w ust. 5, informację tę sporządza kandydat. Kopię sporządzonej przez siebie informacji o
+    dorobku orzeczniczym kandydat przekazuje, odpowiednio, prezesowi właściwego sądu
+    albo wiceprezesowi sądu apelacyjnego.
+    
+    
+* Art. 11b. 
+    * Ust. 1. 
+    Zgłoszenia, o którym mowa w art. 11a ust. 2, dokonuje na piśmie
+    pełnomocnik. Pernornocnikiem jest osoba wskazana w pisemnym oświadczeniu
+    pierwszych 15 osób z listy.
     
     * Ust. 2. 
-    (utracił moc)
+    Do zgłoszenia, o którym mowa w art. 11 a ust. 2 pkt l, załącza się wykaz
+    obywateli popierających zgłoszenie, zawierający ich imiona, nazwiska, adresy
+    zamieszkania, numery ewidencyjne PESEL i własnoręcznie złożone podpisy.
     
     * Ust. 3. 
-    (utracił moc)
-   
-    * Ust. 4. 
-    (utracił moc)
+    W przypadku wątpliwości, co do prawidłowości złożenia wymaganej liczby
+    podpisów Marszałek Sejmu, w terminie 3 dni od dnia otrzymania zgłoszenia, zwraca się
+    do Państwowej Komisji Wyborczej o stwierdzenie, czy złożono wymaganą liczbę
+    podpisów.
     
-    * Ust 5. 
-    Zgromadzenie Sędziów Sądów Wojskowych wybiera spośród swego grona
-    jednego członka Rady.
+    * Ust. 4.
+    Państwowa Komisja Wyborcza stwierdza, czy złożono wymaganą liczbę
+    podpisów w terminie 14 dni od dnia otrzymania pisma Marszałka Sejmu.
+    
+    * Ust. 5. 
+    Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 4, okaże się,
+    że liczba prawidłowo złożonych podpisów przez osoby popierające wniosekjest mniejsza
+    niż ustawowo wymagana, Marszałek Sejmu odmawia przyjęcia zgłoszenia.
+    Postanowienie w tej sprawie wraz z uzasadnieniem doręcza stę niezwłocznie
+    pełnomocnikowi.
+    
+    * Ust. 6.
+    Postanowienie może być zaskarżone przez pełnomocnika do Sądu
+    Najwyższego w terminie 3 dni od dnia doręczenia Sąd Najwyższy rozpoznaje skargę
+    w terminie 3 dni w postępowaniu nieprocesowym, w składzie 3 sędziów. Od
+    postanowienia Sądu Najwyższego nie przysługuje środek prawny.
+    
+    * Ust. 7.
+    Do zgłoszenia, o którym mowa w art. 11 a ust. 2 pkt 2, załącza się wykaz
+    sędziów popierających zgłoszenie, zawierający ich imiona, nazwiska, adresy
+    zamieszkania, numery ewidencyjne PESEL i własnoręcznie złożone podpisy.
+    
+    * Ust. 8. 
+    Marszałek Sejmu, w terminie 3 dni od dnia otrzymania zgłoszenia, o którym
+    mowa w art. 11 a ust. 2 pkt 2, zwraca się do Ministra Sprawiedliwości o potwierdzenie
+    posiadania przez osoby składające zgłoszenie statusu sędziego. Minister Sprawiedliwości
+    potwierdza posiadanie przez osoby składające zgłoszenie statusu sędziego w terminie
+    3 dni od dnia otrzymania pisma Marszałka Sejmu. Przepis ust. 5 i 6 stosuje się
+    odpowiednio.
+    
+    * Ust. 9.
+    Wzór zgłoszenia oraz wzory wykazu obywateli i wykazu sędziów
+    zgłaszających kandydata na członka Rady ustala, w drodze zarządzenia, Marszałek
+    Sejmu. Zarządzenie Marszałka Sejmu podlega ogłoszeniu w Dzienniku Urzędowym
+    Rzeczypospolitej Polskiej "Monitor Polski".
+
+
+* Art. 11c. 
+Zgłoszenia dokonane zgodnie z art. 11 a i art. 11 b Marszałek Sejmu
+niezwłocznie przekazuje posłom i podaje do publicznej wiadomości.
+
+
+* Art. 11d. 
+    * Ust. 1.
+    Jeżeli Sejm, w terminie 90 dni od dnia ogłoszenia obwieszczenia,
+    o którym mowa wart. l la ust. 1, nie wybierze na wspólną czteroletnią kadencję, zgodnie
+    z art. 9a ust. 1, piętnastu członków Rady, wybieranych spośród sędziów, albo wybierze
+    mniej niż piętnastu członków Rady, wyboru na wolne stanowiska członków Rady
+    dokonuje, spośród zgłoszonych kandydatów, Sejm w głosowaniu imiennym.
+    
+    * Ust. 2. 
+    Każdy poseł uczestniczący w procedurze wyboru członków Rady wybieranych
+    spośród sędziów ma tylko jeden głos i może głosować tylko na jednego kandydata.
+    
+    * Ust. 3.
+    Na kandydata poseł oddaje głos "za", głos "przeciw'' albo wstrzymuje się od
+    głosu. Za wybranych członków Rady uważa się tych kandydatów, którzy uzyskali
+    największą liczbę głosów. W przypadku gdy liczba oddanych na kandydatów głosów
+    "za" jest równa, wybranym członkiem Rady jest kandydat, który otrzymał mniej głosów
+    "przeciw''.
+    
+    * Ust. 4.
+    Jeżeli w wyniku zastosowania procedury określonej w ust. 1-3 nie dojdzie do
+    dokonania wyboru piętnastu członków Rady, wybieranych spośród sędziów, wybór na
+    wolne stanowiska członków Rady przeprowadza się ponownie.
+    
+    * Ust. 5.
+    W przypadku, o którym mowa w ust. 4, Marszałek Sejmu niezwłocznie
+    obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski" 
+    o rozpoczęciu zgłaszania kandydatów na członków Rady. Art. 11a ust. 2-6, art. 11b
+    i art. 11c stosuje się. Zgłoszenia kandydatów na członków Rady, dokonane przed dniem
+    obwieszczenia Marszałka Sejmu, nie są uwzględniane.
+    
+    
+* Art. 11e. 
+    * Ust. 1.
+    Jeżeli przed upływem kadencji członka Rady wybieranego spośród
+    sędziów zajdzie potrzeba ponownego obsadzenia mandatu członka Rady, Marszałek
+    Sejmu niezwłocznie obwieszcza o wolnym mandacie. Przepisy art. 11a-11c stosuje się
+    odpowiednio.
+    
+    * Ust. 2.
+    W przypadku, o którym mowa w ust. 1, do wyboru członka Rady, wybieranego
+    spośród sędziów, stosuje się przepisy art. 9a ust. 1 i 2 oraz art. 11d.
+    
+    * Ust. 3. 
+    Kadencja członka Rady wybranego w związku z wolnym mandatem upływa
+    z dniem zakończenia kadencji członków Rady wybieranych spośród sędziów.          
     
 
 * Art. 12. 
-    * Ust. 1. 
-    Zgromadzenia ogólne sędziów wojewódzkich sądów
-    administracyjnych wybierają spośród swoich członków po dwóch przedstawicieli.
-    
-    * Ust. 2.
-    Wybory przedstawicieli zgromadzeń ogólnych sędziów wojewódzkich
-    sądów administracyjnych przeprowadza się najpóźniej na miesiąc przed upływem
-    kadencji członków Rady, wybieranych spośród sędziów sądów administracyjnych.
-    Przedstawiciele wybierani są na okres czterech lat.
-    
+(uchylony)    
+
 
 * Art. 13. 
-    * Ust. 1.
-    Zebrania sędziów sądów apelacyjnych wybierają przedstawicieli
-    zebrań sędziów sądów apelacyjnych spośród swych członków w liczbie jednej
-    piątej liczby sędziów danego sądu apelacyjnego.
-    
-    * Ust. 2. 
-    Zgromadzenia ogólne sędziów okręgów wybierają przedstawicieli
-    zgromadzeń ogólnych sędziów okręgów spośród swych członków w liczbie jednej
-    pięćdziesiątej liczby sędziów okręgu.
-    
-    * Ust. 3. 
-    Wybory przedstawicieli, o których mowa w ust. 1 i 2, przeprowadza się
-    najpóźniej na miesiąc przed upływem kadencji członków Rady, wybieranych
-    spośród sędziów sądów powszechnych. Przedstawiciele wybierani są na okres
-    czterech lat.
+(uchylony)    
 
-    * Ust. 4.
-    Minister Sprawiedliwości w porozumieniu z Przewodniczącym Rady
-    zwołuje zebranie przedstawicieli w celu wyboru członków Rady. Przewodniczący
-    Rady zwołuje zebranie przedstawicieli raz na dwa lata, a także na żądanie jednej
-    trzeciej liczby przedstawicieli albo na wniosek Rady.
-    
-    * Ust. 5. 
-    Zebrania przedstawicieli dokonują oceny działalności wybranych przez
-    nich członków Rady, zgłaszają Radzie postulaty dotyczące jej działalności i
-    podejmują uchwały dotyczące problemów pojawiających się w działalności sądów
-    powszechnych.
-    
-    * Ust. 6. 
-    Zebraniu przedstawicieli przewodniczy najstarszy wiekiem sędzia.
-    Zebrania obradują zgodnie z uchwalanymi przez nie regulaminami.
-    
 
 * Art. 14. 
     * Ust. 1. 
@@ -274,8 +396,7 @@ kadencje.
     organ, który dokonał wyboru członka.
 
     * Ust. 3. 
-    Wybór nowego członka Rady powinien być dokonany w ciągu dwóch
-    miesięcy od dnia wygaśnięcia mandatu.
+    (uchylony)
     
 
 * Art. 15. 
@@ -414,6 +535,7 @@ Organami Rady są Przewodniczący i Prezydium Rady.
 * Art. 20.
     * Ust. 1. 
     Rada obraduje na posiedzeniach plenarnych.
+    Obrady są transmitowane za pośrednictwem Internetu.
     
     * Ust. 2. 
     Posiedzenia plenarne Rady zwołuje Przewodniczący Rady w miarę potrzeb,
@@ -442,7 +564,24 @@ Organami Rady są Przewodniczący i Prezydium Rady.
     zgłoszony najpóźniej w terminie określonym do zgłaszania zastrzeżeń do protokołu
     posiedzenia.
     
-
+    * Ust. 2a. 
+    W uzasadnionych przypadkach Przewodniczący Rady może zarządzić
+    przeprowadzenie głosowania w trybie obiegowym za pośrednictwem poczty
+    elektronicznej. Przewodniczący Rady przekazuje materiały zawierające dane osobowe
+    w sposób zapewniający ich ochronę, a także zawiadamia członków Rady o sposobie
+    oddania głosu oraz o nieprzekraczalnym terminie, w . którym oświadczenie o oddaniu
+    głosu "za", głosu "przeciw" albo o wstrzymaniu się od głosu powinno zostać prżekazane
+    na adres poczty elektronicznej wskazany przez Przewodniczącego Rady.
+    
+    * Ust. 2b. 
+    W przypadku podejmowania uchwał w trybie obiegowym, nie można
+    zarządzić głosowania tajnego.
+    
+    * Ust. 2c.
+    Głosowanie w trybie obiegowym jest skuteczne, jeżeli w terminie
+    wyznaczonym dla zajęcia stanowiska głos odda co najmniej połowa członków Rady.
+    
+    
 * Art. 22.
     * Ust. 1.
     Rada określa w regulaminie szczegółowy tryb swojego działania,
@@ -450,6 +589,12 @@ Organami Rady są Przewodniczący i Prezydium Rady.
     postępowanie w sprawie powołania do pełnienia urzędu na stanowisku
     sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju
     sądów powszechnych, zwanego dalej „systemem teleinformatycznym”.
+    
+    * Ust. 1a.
+    Rada, określając szczegółowy tryb działania, kieruje się potrzebą zapewnienia
+    dostępności informacji o postępowaniu przed Radą oraz wyczerpującej informacji
+    o kandydatach i powodach, dla których przedstawiono wniosek o powołanie osoby na
+    stanowisko sędziego lub asesora sądowego.
     
     * Ust. 2. 
     Regulamin Rady podlega ogłoszeniu w Dzienniku Urzędowym
@@ -474,8 +619,10 @@ Rzeczypospolitej Polskiej.
     Organizację i tryb działania Biura określa regulamin uchwalany przez Radę.
     
     * Ust. 4.
-    Do pracowników Biura stosuje się przepisy o pracownikach urzędów
-    państwowych.
+    Do pracowników Biura stosuje się odpowiednio przepisy ustawy z dnia
+    18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2017 r. poz. 246
+    i 1139), z wyjątkiem wymogu odbycia stażu urzędniczego w sądzie lub prokuraturze,
+    o którym mowa wart. 2 pkt 7 tej ustawy.
 
 
 * Art. 25. 
@@ -593,12 +740,34 @@ otrzymują :
 * Art. 31. 
     * Ust. 1. 
     W celu przygotowania sprawy indywidualnej do rozpatrzenia na
-    posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi od
-    trzech do pięciu członków Rady.
+    posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi trzech członków Rady.
+    
+    * Ust. 1a.
+    Członkami zespołu nie mogą być wyłącznie sędziowie.
     
     * Ust. 2. 
     Członkami zespołu nie mogą być sędziowie sądu, z którego działalnością
     sprawa jest związana, oraz sądu działającego w tym samym okręgu sądowym.
+    
+    * Ust. 2a.
+    Wyznaczając zespół, o którym mowa w ust. 1, Przewodniczący Rady
+    zawiadamia Ministra Sprawiedliwości o powołaniu zespołu oraz informuje o sprawach
+    indywidualnych przekazanych zespołowi do przygotowania do rozpatrzenia na
+    posiedzeniu Rady.
+    
+    * Ust. 2b. 
+    Minister Sprawiedliwości w terminie 21 dni od dnia otrzymania informacji,
+    o której mowa w ust. 2a, może przedstawić Radzie opinię w sprawie indywidualnej.
+    Przed upływem terminu na przedstawienie opinii przez Ministra Sprawiedliwości zespół
+    nie może przyjąć stanowiska, o którym mowa wart. 34 ust. 1.
+    
+    * Ust. 2c. 
+    Nieprzedstawienie przez Ministra Sprawiedliwości opinii w sprawie
+    indywidualnej, w terminie o którym mowa w ust. 2b, nie wstrzymuje prac zespołu.
+    
+    * Ust. 2d.
+    Opinię, o której mowa w ust. 2b, albo informację o jej nieprzedstawieniu
+    dołącza się do dokumentacji postępowania w sprawie.
     
     * Ust. 3.
     Wyznaczony członek Rady może zostać wyłączony ze składu zespołu. O
@@ -637,6 +806,12 @@ otrzymują :
     W sprawach indywidualnych Rada podejmuje uchwały po
     wszechstronnym rozważeniu sprawy, na podstawie udostępnionej dokumentacji
     oraz wyjaśnień uczestników postępowania lub innych osób, jeżeli zostały złożone.
+    
+    * Ust. 1a. 
+    W przypadku gdy Rada rekomenduje na stanowisko sędziowskie albo
+    asesorskie osobę inną niż wskazana w stanowisku zespołu, o którym mowa w art. 34
+    ust. l, podejmuje uchwałę większością 2/3 głosów w obecności co najmniej połowy
+    składu Rady.
     
     * Ust. 2.
     W uzasadnionych przypadkach Rada może żądać osobistego stawiennictwa
@@ -678,8 +853,9 @@ otrzymują :
     Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede
     wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia:
         * 1 )
-        doświadczenie zawodowe, opinie przełożonych, rekomendacje, publikacje i
-        inne dokumenty dołączone do karty zgłoszenia;
+        doświadczenie zawodowe, w tym doświadczenie w stosowaniu przepisów
+        prawa, dorobek naukowy, opinie przełożonych, rekomendacje, publikacje i inne
+        dokumenty dołączone do karty zgłoszenia;
         
         * 2 ) 
         opinię kolegium właściwego sądu oraz ocenę właściwego zgromadzenia
@@ -866,6 +1042,14 @@ lub niedopuszczalne.
     dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz.
     101, z późn. zm.) o skardze kasacyjnej. Przepisów art. 871 Kodeksu postępowania
     cywilnego nie stosuje się.
+    
+    
+* Art. 44a. 
+Rada przedstawia Prezydentowi Rzeczypospolitej Polskiej uchwałę
+zawierającą wniosek o powołanie sędziego lub asesora sądowego wraz z uzasadnieniem
+i informacją o pozostałych kandydatach na stanowisko sędziowskie lub asesorskie wraz
+z oceną wszystkich kandydatów. Do uchwały dołącza się dokumentację postępowania
+w sprawie.
     
     
 * Art. 45.
